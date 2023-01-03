@@ -16,4 +16,4 @@ Deployed the website to <b>Netlify</b> using <b>Netlify CLI</b>
 </li>
 </ul>
 
-Link : https://subhams-qtrip.netlify.com
+Link : 
