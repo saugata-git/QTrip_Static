@@ -16,4 +16,4 @@ Deployed the website to <b>Netlify</b> using <b>Netlify CLI</b>
 </li>
 </ul>
 
-Link : https://63b916d00e674d57625457e5--qtrip-static-saugata.netlify.app/
+Link : https://qtrip-static-saugata.netlify.app/
